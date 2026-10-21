@@ -22,7 +22,7 @@
 
 ### Temel Özellikler
 
-* **Yapay Zekâ Destekli Öneri Motoru:** Mevcut malzemelerinize, beslenme tercihlerinize ve geçmiş beğenilerinize göre **TF-IDF** ve **Kosinüs Benzerliği (Cosine Similarity)** algoritmalarını kullanarak en uygun tarifleri puanlar ve sıralar.
+* **Yapay Zekâ Destekli Öneri Motoru:** Mevcut malzemelerinize, beslenme tercihlerinize ve geçmiş etkileşimlerinize göre **TF-IDF** ve **Kosinüs Benzerliği (Cosine Similarity)** algoritmalarını kullanarak en uygun tarifleri puanlar ve sıralar.
 * **Akıllı Mutfak Envanteri (Dolabım):** Evdeki malzemeleri miktar ve son kullanma tarihleriyle yönetir; pişen yemeklerin ardından kullanılan gramajları stoktan otomatik düşer.
 * **Otomatik Alışveriş Listesi:** Azalan veya tarif için eksik olan malzemeleri tek tıkla dinamik alışveriş listenize aktarır.
 * **Sosyal Etkileşim ve Topluluk:** Kullanıcıların kendi özel tariflerini paylaşmasına, tarifleri puanlamasına ve yorumlamasına olanak tanır.
