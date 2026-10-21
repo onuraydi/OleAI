@@ -38,7 +38,7 @@ OleAI, birbirinden bağımsız çalışabilen ve ölçeklenebilen 4 ana uygulama
 | :--- | :--- | :--- |
 | **Backend API** | Clean Architecture prensipleriyle geliştirilmiş, iş kurallarını ve veritabanı işlemlerini yöneten merkezi RESTful API. | [Backend](https://github.com/onuraydi/OleAI-backend) |
 | **AI Engine** | Tarif eşleştirme, doğal dil işleme (NLP) ve vektör uzay modellerini barındıran mikroservis. | [AI Servisi](https://github.com/onuraydi/OleAI-ai) |
-| **Web İstemcisi** | Kullanıcıların büyük ekranda tarif keşfi ve kiler yönetimi yapabildiği modern, hızlı SPA (Single Page Application) arayüzü. | [Web](https://github.com/onuraydi/OleAI-web) |
+| **Web İstemcisi** | Kullanıcıların büyük ekranda tarif keşfi ve kiler yönetimi yapabildiği modern, hızlı arayüz. | [Web](https://github.com/onuraydi/OleAI-web) |
 | **Mobil Uygulama** | Mutfakta pratik kullanım için yerel (native) performans sunan, modern deklaratif UI tabanlı Android uygulaması. | [Mobil](https://github.com/onuraydi/OleAI-android) |
 
 ---
